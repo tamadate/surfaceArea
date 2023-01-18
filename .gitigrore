@@ -1,0 +1,4 @@
+./src/*out
+./*/*.png
+./*.png
+.vscode
